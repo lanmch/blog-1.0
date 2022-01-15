@@ -40,7 +40,7 @@
     "key-mirror": "^1.0.1",
     "less": "^2.7.3",
     "less-loader": "^4.1.0",
-    "marked": "^0.4.0",
+    "marked": "^4.0.10",
     "object-assign": "4.1.1",
     "path": "^0.12.7",
     "postcss-flexbugs-fixes": "3.2.0",
